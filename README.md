@@ -23,6 +23,8 @@ A Passionate Developer & Tech Enthusiast
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/zhiyarrr1)
 [![Discord](https://img.shields.io/badge/Discord-zhizhi1348-5865F2?logo=discord&logoColor=white)]([https://#](https://discord.com/users/zhizhi1348))
 
+⭐ **If you like what I do, feel free to star my repositories!**
+
 ---
 
-⭐ **If you like what I do, feel free to star my repositories!**
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
